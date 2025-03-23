@@ -1,3 +1,4 @@
+#This file created to use for the application that I developed for e-commerece where prodcut-service, order-service, payment-service will utilized from the service-registry
 eureka:
   instance:
     prefer-ip-address: true
